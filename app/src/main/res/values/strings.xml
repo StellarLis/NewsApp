@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="description">Description</string>
+    <string name="visit_site">Visit site</string>
+    <string name="search">Search</string>
+    <string name="favourite_news">Favourite news</string>
+</resources>
